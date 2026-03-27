@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">mySocialApp</string>
+<string name="app_name" translatable="false">mySocialApp</string>
+<string name="button3" translatable="false">Enter</string>
+<string name="textView2" translatable="false">Please enter time of day</string>
+    <string name="EditText" translatable="false">Time</string>
 </resources>
+
