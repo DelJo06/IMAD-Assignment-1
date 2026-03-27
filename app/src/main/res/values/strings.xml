@@ -2,6 +2,8 @@
 <string name="app_name" translatable="false">mySocialApp</string>
 <string name="button3" translatable="false">Enter</string>
 <string name="textView2" translatable="false">Please enter time of day</string>
-    <string name="EditText" translatable="false">Time</string>
+    <string name="editTextText" translatable="false">Time</string>
+    <string name="enter_time_hint">Enter the time of day here</string>
+    <string name="button" translatable="false">Reset</string>
 </resources>
 
