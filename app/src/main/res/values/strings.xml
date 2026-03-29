@@ -1,9 +1,15 @@
 <resources>
-<string name="app_name" translatable="false">mySocialApp</string>
-<string name="button" translatable="false">Enter</string>
+    <string name="app_name" translatable="false">mySocialApp</string>
+    <string name="button" translatable="false">Enter</string>
     <string name="textView2" translatable="false">Please enter time of day</string>
     <string name="editTextText" translatable="false">time</string>
     <string name="enter_time_hint">Enter the time of day here</string>
     <string name="button2" translatable="false">Reset</string>
-</resources>
 
+    <!-- New messages for the app -->
+    <string name="error_invalid_input">Please enter valid input</string>
+    <string name="msg_morning">Text a friend good morning.</string>
+    <string name="msg_afternoon">text a friend asking how their day is going.</string>
+    <string name="msg_night">Text a friend goodnight.</string>
+    <string name="error_valid_time">Please enter valid time</string>
+</resources>
